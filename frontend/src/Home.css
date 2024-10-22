@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #0c0c0c;
+    background-color: #1f2029;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.home {
+    background-image: url('images/script.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: #1f2029;
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.home-page .home .logo img {
+    height: 50px;
+}
+
+.home-page .home .down img {
+    height: 40px;
+}
+
+.home-page .home .down {
+    position: absolute;
+    bottom: 20px;
+    /* Adjust as needed */
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.home-page .home .down img {
+    -webkit-animation: upDown 2s infinite;
+    animation: upDown 2s infinite;
+}
+
+
+@-webkit-keyframes upDown {
+    0% {
+        -webkit-transform: translateY(-10px);
+        transform: translateY(-10px);
+    }
+
+    50% {
+        -webkit-transform: translateY(10px);
+        transform: translateY(10px);
+    }
+
+    100% {
+        -webkit-transform: translateY(-10px);
+        transform: translateY(-10px);
+    }
+}
+
+@keyframes upDown {
+    0% {
+        -webkit-transform: translateY(-10px);
+        transform: translateY(-10px);
+    }
+
+    50% {
+        -webkit-transform: translateY(10px);
+        transform: translateY(10px);
+    }
+
+    100% {
+        -webkit-transform: translateY(-10px);
+        transform: translateY(-10px);
+    }
+}
+
+.home-page .home .detail-box {
+    color: #00204a;
+    padding: 0 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.home-page .home .detail-box h1 {
+    font-size: 38px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    color: #ffffff;
+    font-family: 'Playfair Display', serif;
+}
+
+.home-page .home .detail-box p {
+    color: #fefefe;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.home-page .home .btn-box a {
+    display: inline-block;
+    padding: 10px 30px;
+    background-color: #fff;
+    color: #000;
+    border-radius: 10px;
+    transition: all 0.3s;
+    border: none;
+    text-decoration: none;
+}
+
+.home-page .home .btn-box a:hover {
+    background-color: #2b2e38;
+    color: #fff;
+}
+
+.home-page .footer_section {
+    position: relative;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.home-page .footer_section p {
+    color: #00204a;
+    padding: 25px 0;
+    margin: 0;
+}
+
+.home-page .footer_section p a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.home-page .use_section {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #1f2029;
+    text-align: center;
+}
+
+.home-page .use_container {
+    display: flex;
+    justify-content: center;
+}
+
+.home-page .heading_container {
+    padding-bottom: 20px;
+}
+
+.home-page .container {
+    max-width: 100%;
+}
+
+.home-page .container h2 {
+    color: #ffeba7;
+    font-family: 'Playfair Display', serif;
+    font-size: 32px;
+}
+
+.home-page .container h5 {
+    color: #fff;
+    font-size: 20px;
+}
+
+.home-page .container p {
+    color: #656e71;
+}
+
+.home-page .container img {
+    height: 100px;
+}
+
+.home-page .row {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.home-page .box {
+    background-color: #2b2e38;
+    width: 25%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    padding: 20px;
+    align-items: center;
+}
+
+.home-page .box img {
+    max-width: 100%;
+}
+
+.home-page .container .detail-box {
+    margin-top: 10px;
+}
+
+/* Style the scrollbar */
+::-webkit-scrollbar {
+    width: 10px;
+    /* Width of the scrollbar */
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #1f2029;
+    /* Color of the track */
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #2b2e38;
+    /* Color of the scrollbar handle */
+    border-radius: 10px;
+    /* Rounded corners */
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #656e71;
+    /* Color of the scrollbar handle on hover */
+}
+

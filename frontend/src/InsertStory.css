@@ -1,0 +1,282 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #0c0c0c;
+    background-color: #1f2029;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.insert-story {
+    background-image: url('images/script.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.insert-story .buttons-container {
+    width: 200px;
+    padding: 20px;
+    position: sticky;
+    top: 10px;
+}
+
+.insert-story .container {
+    float: right;
+    width: 90%;
+    max-width: 800px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    max-height: calc(100vh - 220px);
+    font-family: "Courier New", Courier, monospace;
+}
+
+.insert-story h1 {
+    color: #333;
+    margin-top: 0;
+}
+
+.insert-story .container p {
+    margin-bottom: 0;
+    white-space: pre-wrap;
+    text-align: left;
+    padding: 5%;
+}
+
+.insert-story button {
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    color: #000;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+}
+
+.insert-story .display-section {
+    flex: 2;
+    background-color: rgba(43, 46, 56, 0.8);
+    /* Adjust the opacity as needed */
+    border-radius: 32px;
+    margin: 1%;
+    margin-top: 6%;
+    overflow: hidden;
+    height: 100%;
+    display: flex;
+    width: 90%;
+    padding: 32px 32px 32px 32px;
+    flex-direction: column;
+    text-align: left;
+}
+
+.insert-story .display-section h1 {
+    color: #ffeba7;
+    font-family: 'Playfair Display', serif;
+    font-size: 32px;
+}
+
+.insert-story .display-section p,
+label {
+    color: #fefefe;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.insert-story .display-boxes {
+    overflow-y: auto;
+}
+
+.insert-story .display-boxes.jsGridView {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 32px;
+}
+
+.insert-story .display-boxes.jsGridView .display-box-wrapper {
+    width: 60%;
+}
+
+.insert-story .display-boxes.jsGridView .display-box-wrapper:not(:first-child) {
+    width: 40%;
+}
+
+.insert-story .display-boxes.jsListView .display-box {
+    display: flex;
+    border-radius: 10px;
+    position: relative;
+}
+
+.insert-story .display-boxes.jsListView .display-box>* {
+    margin-right: 24px;
+}
+
+.insert-story .prompt-text {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.insert-story .script-textarea {
+    width: 93%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: none;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: #333;
+}
+
+.insert-story .script-text {
+    width: 80%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: none;
+    margin-top: 2%;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    color: #333;
+}
+
+.insert-story .script-select {
+    width: 85%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: none;
+    margin-top: 2%;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    color: #333;
+}
+
+.insert-story .customization {
+    padding-left: 10%;
+}
+
+.insert-story .custom-input {
+    padding-bottom: 8%;
+}
+
+.insert-story .characters {
+    padding-top: 13.5%;
+}
+
+
+.insert-story .progress-bar {
+    position: absolute;
+    bottom: 5%;
+    left: 7%;
+    display: inline-block;
+}
+
+
+.insert-story .submit-btn {
+    position: absolute;
+    bottom: 5%;
+    left: 7%;
+    /* Adjust as needed */
+    display: inline-block;
+    padding: 10px 30px;
+    background-color: #ffeba7;
+    color: #000;
+    width: 12%;
+    height: 6%;
+    border-radius: 25px;
+    transition: all 0.3s;
+    border: none;
+}
+
+.insert-story .submit-btn:hover {
+    background-color: #e5cc8e;
+}
+
+
+input[type="range"] {
+    width: 85%;
+    height: 10px;
+    -webkit-appearance: none;
+    appearance: none;
+    background: #ffeba7;
+    outline: none;
+    border-radius: 10px;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    background: #d4b25a;
+    cursor: pointer;
+    border-radius: 50%;
+    /* Make the thumb round */
+}
+
+input[type="range"]::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    background: #e5cc8e;
+    cursor: pointer;
+    border-radius: 50%;
+    /* Make the thumb round */
+}
+
+.input-container input[type="number"] {
+    width: 80%;
+    padding: 10px;
+    margin-top: 2%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Style the input on focus */
+.input-container input[type="number"]:focus {
+    outline: none;
+    border-color: #feffcb;
+    box-shadow: 0 0 5px rgba(76, 175, 80, 0.5);
+}
+
+/* Style the scrollbar */
+::-webkit-scrollbar {
+    width: 10px;
+    /* Width of the scrollbar */
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #1f2029;
+    /* Color of the track */
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #2b2e38;
+    /* Color of the scrollbar handle */
+    border-radius: 10px;
+    /* Rounded corners */
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #656e71;
+    /* Color of the scrollbar handle on hover */
+}

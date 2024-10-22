@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
+
+.upcoming-features body {
+    font-family: 'Poppins', sans-serif;
+    color: #0c0c0c;
+    background-color: #1f2029;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.upcoming-features {
+    background-image: url('images/script.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.upcoming-features header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 15px 0;
+    z-index: 1;
+}
+
+.upcoming-features .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 5%;
+}
+
+.upcoming-features .logo img {
+    height: 50px;
+}
+
+.upcoming-features .navbar-right {
+    display: flex;
+}
+
+.upcoming-features .navbar-right .nav-item {
+    margin-left: 20px;
+}
+
+.upcoming-features .navbar .nav-item a.nav-link {
+    text-decoration: none;
+    color: #fff;
+}
+
+.upcoming-features button {
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    color: #000;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+}
+
+.upcoming-features .display-section {
+    flex: 2;
+    background-color: rgba(43, 46, 56, 0.8);
+    /* Adjust the opacity as needed */
+    border-radius: 32px;
+    margin: 1%;
+    margin-top: 6%;
+    overflow: hidden;
+    height: 100%;
+    display: flex;
+    width: 90%;
+    padding: 32px 32px 32px 32px;
+    flex-direction: column;
+    text-align: center;
+}
+
+
+.upcoming-features .heading_container {
+    padding-bottom: 20px;
+}
+
+.upcoming-features .container {
+    max-width: 100%;
+}
+
+.upcoming-features .display-section h2 {
+    color: #ffeba7;
+    font-family: 'Playfair Display', serif;
+    font-size: 32px;
+}
+
+.upcoming-features .display-section h5 {
+    color: #fff;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.upcoming-features .display-section p {
+    color: #656e71;
+}
+
+.upcoming-features .display-section img {
+    height: 50px;
+}
+
+.upcoming-features .row {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.upcoming-features .box {
+    background-color: #2b2e38;
+    width: 25%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    padding: 20px;
+    align-items: center;
+}
+
+.upcoming-features .box img {
+    max-width: 100%;
+}
+
+.upcoming-features .container .detail-box {
+    margin-top: 10px;
+}
+
+/* Style the scrollbar */
+::-webkit-scrollbar {
+    width: 10px;
+    /* Width of the scrollbar */
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #1f2029;
+    /* Color of the track */
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #2b2e38;
+    /* Color of the scrollbar handle */
+    border-radius: 10px;
+    /* Rounded corners */
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #656e71;
+    /* Color of the scrollbar handle on hover */
+}

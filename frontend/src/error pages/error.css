@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap');
+
+.error body {
+    font-family: 'Poppins', sans-serif;
+    color: #0c0c0c;
+    background-color: #1f2029;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.error {
+    background-image: url('../images/bg.png');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.error header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 15px 0;
+    z-index: 1;
+}
+
+.error .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 5%;
+}
+
+.error .logo img {
+    height: 50px;
+}
+
+.error .navbar-right {
+    display: flex;
+}
+
+.error .navbar-right .nav-item {
+    margin-left: 20px;
+}
+
+.error .navbar .nav-item a.nav-link {
+    text-decoration: none;
+    color: #fff;
+}
+
+.error button {
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    color: #000;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+}
+
+.error .display-section {
+    flex: 2;
+    background-color: rgba(43, 46, 56, 0.8);
+    /* Adjust the opacity as needed */
+    border-radius: 32px;
+    margin: 1%;
+    margin-top: 6%;
+    overflow: hidden;
+    height: 100%;
+    display: flex;
+    width: 90%;
+    padding: 32px 32px 32px 32px;
+    flex-direction: column;
+    text-align: center;
+}
+
+
+.error .heading_container {
+    padding-bottom: 20px;
+}
+
+.error .container {
+    max-width: 100%;
+}
+
+.error .display-section h1 {
+    color: #ffeba7;
+    font-family: 'Playfair Display', serif;
+    font-size: 180px;
+    border: 0;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.error .display-section h2 {
+    color: #fcf6e0;
+    font-family: 'Playfair Display', serif;
+    font-size: 32px;
+    border: 0;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.error .display-section p {
+    color: #8a9497;
+    border: 0;
+    margin: 0;
+    margin-bottom: 10px;
+}

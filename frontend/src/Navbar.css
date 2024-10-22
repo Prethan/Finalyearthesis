@@ -1,0 +1,32 @@
+.navigation-bar header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 15px 0;
+    z-index: 1;
+}
+
+.navigation-bar .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 5%;
+}
+
+.navigation-bar .logo img {
+    height: 50px;
+}
+
+.navigation-bar .navbar-right {
+    display: flex;
+}
+
+.navigation-bar .navbar-right .nav-item {
+    margin-left: 20px;
+}
+
+.navigation-bar .navbar .nav-item a.nav-link {
+    text-decoration: none;
+    color: #fff;
+}
