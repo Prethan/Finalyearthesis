@@ -1,0 +1,414 @@
+sound_source,sound_cue
+alarm clock,ALARM CLOCK
+ambulance siren,AMBULANCE SIREN
+applause,APPLAUSE
+babble,BABBLE
+baby crying,BABY CRYING
+baby giggling,BABY GIGGLING
+bagpipes,BAGPIPES
+ball bouncing,BALL BOUNCING
+balloon popping,BALLOON POPPING
+bang,BANG
+banjo strumming,BANJO STRUMMING
+bark,BARK
+barking,BARKING
+bat screech,BAT SCREECH
+baul,BAUL
+bawl,BAWL
+bay,BAY
+beating drums,BEATING DRUMS
+beep,BEEP
+beeping alarm,BEEPING ALARM
+beeping microwave,BEEPING MICROWAVE
+bell,BELL
+bellow,BELLOW
+bicycle bell,BICYCLE BELL
+bird chirping,BIRD CHIRPING
+blare,BLARE
+bleat,BLEAT
+blender,BLENDER
+blubber,BLUBBER
+boiling water,BOILING WATER
+book pages turning,BOOK PAGES TURNING
+boom,BOOM
+bottle opening,BOTTLE OPENING
+bowling ball rolling,BOWLING BALL ROLLING
+bray,BRAY
+bubble popping,BUBBLE POPPING
+bubbling cauldron,BUBBLING CAULDRON
+bus horn,BUS HORN
+buzz,BUZZ
+buzzing bee,BUZZING BEE
+buzzing bees,BUZZING BEES
+buzzing flies,BUZZING FLIES
+buzzing hornet,BUZZING HORNET
+buzzing insects,BUZZING INSECTS
+buzzing mosquitoes,BUZZING MOSQUITOES
+buzzing neon lights,BUZZING NEON LIGHTS
+buzzing streetlights,BUZZING STREETLIGHTS
+cackle,CACKLE
+camera shutter,CAMERA SHUTTER
+car alarm,CAR ALARM
+car engine revving,CAR ENGINE REVVING
+cat meowing,CAT MEOWING
+caw,CAW
+cawing crow,CAWING CROW
+cello playing,CELLO PLAYING
+chainsaw,CHAINSAW
+chalk writing on board,CHALK WRITING ON BOARD
+chatter,CHATTER
+cheep,CHEEP
+cheering,CHEERING
+chime,CHIME
+chirp,CHIRP
+chirping cicadas,CHIRPING CICADAS
+chirping crickets,CHIRPING CRICKETS
+chirping robins,CHIRPING ROBINS
+chirping sparrows,CHIRPING SPARROWS
+chirrup,CHIRRUP
+chopping wood,CHOPPING WOOD
+chuckle,CHUCKLE
+church bells,CHURCH BELLS
+clack,CLACK
+clackling radio,CLACKLING RADIO
+clang,CLANG
+clanging metal,CLANGING METAL
+clanging pots,CLANGING POTS
+clank,CLANK
+clanking chains,CLANKING CHAINS
+clap,CLAP
+clap of thunder,CLAP OF THUNDER
+clattering dishes,CLATTERING DISHES
+clattering hooves,CLATTERING HOOVES
+click,CLICK
+clicking light switch,CLICKING LIGHT SWITCH
+clinking armor,CLINKING ARMOR
+clinking coins,CLINKING COINS
+clinking cutlery,CLINKING CUTLERY
+clinking glass,CLINKING GLASS
+clinking glasses,CLINKING GLASSES
+clinking ice,CLINKING ICE
+clinking ice cubes,CLINKING ICE CUBES
+clinking keys,CLINKING KEYS
+clock ticking,CLOCK TICKING
+cluck,CLUCK
+coins dropping,COINS DROPPING
+computer keyboard typing,COMPUTER KEYBOARD TYPING
+coo,COO
+cow mooing,COW MOOING
+crack of thunder,CRACK OF THUNDER
+cracking branches,CRACKING BRANCHES
+cracking knuckles,CRACKING KNUCKLES
+cracking thunder,CRACKING THUNDER
+cracking whip,CRACKING WHIP
+crackle,CRACKLE
+crackling bonfire,CRACKLING BONFIRE
+crackling campfire,CRACKLING CAMPFIRE
+crackling fire,CRACKLING FIRE
+crackling fireplace,CRACKLING FIREPLACE
+crackling firewood,CRACKLING FIREWOOD
+crackling ice,CRACKLING ICE
+crackling radio,CRACKLING RADIO
+crackling thunder,CRACKLING THUNDER
+crackling thunderstorm,CRACKLING THUNDERSTORM
+crash,CRASH
+creaking,CREAKING
+creaking door,CREAKING DOOR
+creaking floorboards,CREAKING FLOORBOARDS
+cricket chirping,CRICKET CHIRPING
+crinkling paper,CRINKLING PAPER
+crinkling plastic,CRINKLING PLASTIC
+croak,CROAK
+croon,CROON
+crow cawing,CROW CAWING
+crumpling paper,CRUMPLING PAPER
+crunch,CRUNCH
+crunching footsteps,CRUNCHING FOOTSTEPS
+crunching leaves,CRUNCHING LEAVES
+crunching snow,CRUNCHING SNOW
+cry,CRY
+cupboard door closing,CUPBOARD DOOR CLOSING
+ding,DING
+distant howling,DISTANT HOWLING
+distant laughter,DISTANT LAUGHTER
+distant thunder,DISTANT THUNDER
+doorbell ringing,DOORBELL RINGING
+dripping faucet,DRIPPING FAUCET
+dripping water,DRIPPING WATER
+drone,DRONE
+dropping a book,DROPPING A BOOK
+drum,DRUM
+drum roll,DRUM ROLL
+drumming rain,DRUMMING RAIN
+duck quacking,DUCK QUACKING
+eating/chewing,EATING/CHEWING
+electric guitar solo,ELECTRIC GUITAR SOLO
+elevator ding,ELEVATOR DING
+engine starting,ENGINE STARTING
+faint creaking,FAINT CREAKING
+faint footsteps,FAINT FOOTSTEPS
+faint siren,FAINT SIREN
+faint whinnies,FAINT WHINNIES
+fire crackling,FIRE CRACKLING
+fireworks,FIREWORKS
+fizzling soda,FIZZLING SODA
+flapping flag,FLAPPING FLAG
+flickering flames,FLICKERING FLAMES
+flicking lighter,FLICKING LIGHTER
+flute playing,FLUTE PLAYING
+fluttering butterflies,FLUTTERING BUTTERFLIES
+fluttering flags,FLUTTERING FLAGS
+fluttering wings,FLUTTERING WINGS
+footsteps,FOOTSTEPS
+footsteps on gravel,FOOTSTEPS ON GRAVEL
+frying food,FRYING FOOD
+gasp,GASP
+giggle,GIGGLE
+giggling,GIGGLING
+giggling children,GIGGLING CHILDREN
+glass breaking,GLASS BREAKING
+gobble,GOBBLE
+gong,GONG
+groan,GROAN
+growl,GROWL
+growling stomach,GROWLING STOMACH
+grumble,GRUMBLE
+grunt,GRUNT
+guffaw,GUFFAW
+guitar strumming,GUITAR STRUMMING
+gurgling brook,GURGLING BROOK
+gurgling stream,GURGLING STREAM
+hair dryer,HAIR DRYER
+hammering,HAMMERING
+helicopter,HELICOPTER
+high-pitched scream,HIGH-PITCHED SCREAM
+hiss,HISS
+hissing cat,HISSING CAT
+hissing kettle,HISSING KETTLE
+hissing radiator,HISSING RADIATOR
+hissing snake,HISSING SNAKE
+hissing steam,HISSING STEAM
+holler,HOLLER
+hoo,HOO
+hoot,HOOT
+hoot,HOOT
+hoot of an owl,HOOT OF AN OWL
+hooting horn,HOOTING HORN
+hooting owl,HOOTING OWL
+horse neighing,HORSE NEIGHING
+howl,HOWL
+hum,HUM
+hushed whispers,HUSHED WHISPERS
+jingle,JINGLE
+jingling bells,JINGLING BELLS
+jingling keys,JINGLING KEYS
+keyboard typing,KEYBOARD TYPING
+knock,KNOCK
+knocking on door,KNOCKING ON DOOR
+knocking on wood,KNOCKING ON WOOD
+laugh,LAUGH
+laughing,LAUGHING
+lawn mower,LAWN MOWER
+lion roar,LION ROAR
+loud siren,LOUD SIREN
+machine gun fire,MACHINE GUN FIRE
+meow,MEOW
+mewl,MEWL
+microwave beeping,MICROWAVE BEEPING
+moan,MOAN
+monkey screech,MONKEY SCREECH
+moo,MOO
+motorcycle engine revving,MOTORCYCLE ENGINE REVVING
+mouse clicking,MOUSE CLICKING
+muffled conversation,MUFFLED CONVERSATION
+mumble,MUMBLE
+murmur,MURMUR
+murmuring crowd,MURMURING CROWD
+mutter,MUTTER
+muttering crowd,MUTTERING CROWD
+neigh,NEIGH
+ocean waves,OCEAN WAVES
+oink,OINK
+owl hooting,OWL HOOTING
+paintbrush strokes,PAINTBRUSH STROKES
+pattering footsteps,PATTERING FOOTSTEPS
+pattering rain,PATTERING RAIN
+pattering raindrops,PATTERING RAINDROPS
+pencil scribbling,PENCIL SCRIBBLING
+pencil writing,PENCIL WRITING
+phone ringing,PHONE RINGING
+pig oinking,PIG OINKING
+ping,PING
+plop,PLOP
+police siren,POLICE SIREN
+pop,POP
+popcorn popping,POPCORN POPPING
+popping balloons,POPPING BALLOONS
+popping bubble gum,POPPING BUBBLE GUM
+popping bubble wrap,POPPING BUBBLE WRAP
+popping champagne,POPPING CHAMPAGNE
+popping popcorn,POPPING POPCORN
+pounding heartbeat,POUNDING HEARTBEAT
+pouring water,POURING WATER
+prattle,PRATTLE
+purr,PURR
+purring,PURRING
+purring cat,PURRING CAT
+purring engine,PURRING ENGINE
+quack,QUACK
+rain falling,RAIN FALLING
+ramble,RAMBLE
+rattling chains,RATTLING CHAINS
+rattling keys,RATTLING KEYS
+rattling windows,RATTLING WINDOWS
+record scratch,RECORD SCRATCH
+riffle,RIFFLE
+ringing church bells,RINGING CHURCH BELLS
+ringing doorbell,RINGING DOORBELL
+ringing telephone,RINGING TELEPHONE
+rippling water,RIPPLING WATER
+roar,ROAR
+rooster crowing,ROOSTER CROWING
+ruffling pages,RUFFLING PAGES
+rumble,RUMBLE
+rumbling stomach,RUMBLING STOMACH
+rumbling thunder,RUMBLING THUNDER
+rumbling train,RUMBLING TRAIN
+rustle,RUSTLE
+rustling bushes,RUSTLING BUSHES
+rustling leaves,RUSTLING LEAVES
+rustling newspaper,RUSTLING NEWSPAPER
+rustling papers,RUSTLING PAPERS
+rustling wind,RUSTLING WIND
+sawing wood,SAWING WOOD
+school bell,SCHOOL BELL
+scissors cutting,SCISSORS CUTTING
+scratching pen on paper,SCRATCHING PEN ON PAPER
+scream,SCREAM
+screech,SCREECH
+seagulls,SEAGULLS
+sheep bleating,SHEEP BLEATING
+shout,SHOUT
+shriek,SHRIEK
+shuffling cards,SHUFFLING CARDS
+shuffling feet,SHUFFLING FEET
+shuffling papers,SHUFFLING PAPERS
+shushing librarian,SHUSHING LIBRARIAN
+sigh,SIGH
+sigh of relief,SIGH OF RELIEF
+sighing breeze,SIGHING BREEZE
+sighing wind,SIGHING WIND
+sing,SING
+singing,SINGING
+sizzle,SIZZLE
+sizzling,SIZZLING
+sizzling bacon,SIZZLING BACON
+sizzling hot pan,SIZZLING HOT PAN
+sizzling pan,SIZZLING PAN
+sizzling skillet,SIZZLING SKILLET
+sizzling steak,SIZZLING STEAK
+skateboard rolling,SKATEBOARD ROLLING
+sliding door,SLIDING DOOR
+slurping drink,SLURPING DRINK
+snap,SNAP
+snarl,SNARL
+sneeze,SNEEZE
+snicker,SNICKER
+snivel,SNIVEL
+snore,SNORE
+snoring,SNORING
+snoring dog,SNORING DOG
+snort,SNORT
+snuffle,SNUFFLE
+sob,SOB
+soft thunder rumbling,SOFT THUNDER RUMBLING
+sound of thunder,SOUND OF THUNDER
+splash,SPLASH
+splashing water,SPLASHING WATER
+splashing waves,SPLASHING WAVES
+splintering wood,SPLINTERING WOOD
+sputter,SPUTTER
+squawk,SQUAWK
+squeak,SQUEAK
+squeaking chair,SQUEAKING CHAIR
+squeaking door hinge,SQUEAKING DOOR HINGE
+squeaking swings,SQUEAKING SWINGS
+squeaking wheel,SQUEAKING WHEEL
+squeal,SQUEAL
+squealing brakes,SQUEALING BRAKES
+squealing tires,SQUEALING TIRES
+steam train whistle,STEAM TRAIN WHISTLE
+swish,SWISH
+swishing broom,SWISHING BROOM
+tapping fingers,TAPPING FINGERS
+tapping keyboard,TAPPING KEYBOARD
+tearing fabric,TEARING FABRIC
+tearing open a package,TEARING OPEN A PACKAGE
+tearing paper,TEARING PAPER
+tee-hee,TEE-HEE
+telephone dial tone,TELEPHONE DIAL TONE
+thud,THUD
+thudding footsteps,THUDDING FOOTSTEPS
+thudding heartbeat,THUDDING HEARTBEAT
+thump,THUMP
+thumping bass,THUMPING BASS
+thumping heart,THUMPING HEART
+thumping heartbeat,THUMPING HEARTBEAT
+thunder,THUNDER
+thunderous applause,THUNDEROUS APPLAUSE
+thunderstorm,THUNDERSTORM
+tick,TICK
+ticking bomb,TICKING BOMB
+ticking clock,TICKING CLOCK
+tinkle,TINKLE
+titter,TITTER
+tock,TOCK
+toilet flushing,TOILET FLUSHING
+train horn,TRAIN HORN
+trill,TRILL
+tropical bird calls,TROPICAL BIRD CALLS
+trumpet playing,TRUMPET PLAYING
+tweet,TWEET
+twitter,TWITTER
+typewriter,TYPEWRITER
+vacuum cleaner,VACUUM CLEANER
+violin playing,VIOLIN PLAYING
+vroom,VROOM
+wail,WAIL
+washing machine,WASHING MACHINE
+water dripping,WATER DRIPPING
+whale song,WHALE SONG
+whicker,WHICKER
+whimper,WHIMPER
+whine,WHINE
+whining dog,WHINING DOG
+whinnies,WHINNIES
+whinny,WHINNY
+whip cracking,WHIP CRACKING
+whir,WHIR
+whirr,WHIRR
+whirring computer fan,WHIRRING COMPUTER FAN
+whirring fan,WHIRRING FAN
+whirring helicopter,WHIRRING HELICOPTER
+whirring helicopter blades,WHIRRING HELICOPTER BLADES
+whirring machinery,WHIRRING MACHINERY
+whisper,WHISPER
+whispering wind,WHISPERING WIND
+whistle,WHISTLE
+whistling arrow,WHISTLING ARROW
+whistling kettle,WHISTLING KETTLE
+whistling teapot,WHISTLING TEAPOT
+whistling wind,WHISTLING WIND
+whiz,WHIZ
+whizzing arrow,WHIZZING ARROW
+whoosh,WHOOSH
+wind chimes,WIND CHIMES
+wolf howling,WOLF HOWLING
+xylophone playing,XYLOPHONE PLAYING
+yawn,YAWN
+yell,YELL
+yelp,YELP
+yowl,YOWL
+zap,ZAP
+zipper,ZIPPER
+zipping backpack,ZIPPING BACKPACK
